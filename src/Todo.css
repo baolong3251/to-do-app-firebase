@@ -1,0 +1,7 @@
+.List{
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
